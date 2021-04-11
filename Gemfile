@@ -68,3 +68,4 @@ gem 'factory_bot_rails'
 gem 'faker'
 
 gem "mimemagic", "~> 0.3.10"
+gem "aws-sdk-s3", require: false
